@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "/"
 title = "Elizabeth Wei"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -14,7 +14,6 @@ googleAnalytics = ""
   description = "Elizabeth Wei's personal website"
   copyright = "&copy;2018"
   sidebarAbout = [
-    "MIT 2019 || Phillips Exeter 2015",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
