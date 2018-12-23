@@ -30,14 +30,15 @@ googleAnalytics = ""
   email = "you@yoursite.com"
 
   # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Home"
-  url = "portfolio/"
-  home = true
+  # [[params.navlinks]]
+  # name = "Home"
+  # url = "about/"
+  # home = true
 
   [[params.navlinks]]
   name = "About"
   url = "about/"
+  home = true
 
   [[params.navlinks]]
   name = "Projects"

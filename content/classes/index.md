@@ -3,7 +3,7 @@ date = "2016-11-05T21:05:33+05:30"
 title = "Classes"
 +++
 
-Here are some materials I've written from classes I've taken at MIT:
+Here are some study sheets I've written from classes I've taken at MIT:
 
 ---
 #### Computer Science
@@ -13,8 +13,6 @@ Here are some materials I've written from classes I've taken at MIT:
   - [Blog posts on papers read](http://datasieve.blogspot.com/search/label/tldr)
 - Performance Engineering (6.172)
   - [Blog Post](http://datasieve.blogspot.com/2017/11/performance-engineering.html)
-  - [Project 1: Bit Hacks](https://www.dropbox.com/s/d33dqoqhjvskoqf/project1.pdf?dl=0): [Write-up with Justin Restivo](https://www.dropbox.com/s/jju53lzfyoujwhe/Project_1_Final_Write_up.pdf?dl=0)
-  - [Project 3: Serial Dynamic Memory Allocation](https://www.dropbox.com/s/b3rc8vt8ex84vvl/project3.pdf?dl=0) : [Write-up with Anthony Liu](https://www.dropbox.com/s/35lg9n5u48plb1o/Project_3_Final.pdf?dl=0)
   - [Quiz 2](https://www.dropbox.com/s/byfzi8ev9u49mo2/6_172_Quiz_2.pdf?dl=0)
 - Distributed Systems Engineering (6.824)
   - [Quiz 1](https://www.dropbox.com/s/d3ey84yf8tei6q2/6_824_Exam_1.pdf?dl=0)
@@ -28,8 +26,6 @@ Here are some materials I've written from classes I've taken at MIT:
 - Computer Systems Engineering (6.033):
   - [Quiz 1](https://www.dropbox.com/s/ktsow5vh719gt1w/6_033_Quiz_1.pdf?dl=0)
   - [Quiz 2](https://www.dropbox.com/s/nigllow5po38i4u/6_033_Quiz_2.pdf?dl=0)
-  - [DNS Paper](https://www.dropbox.com/s/rcdmompvm7dqjd5/System_Critique__DNS.pdf?dl=0)
-  - [Eraser Paper](https://www.dropbox.com/s/df50qd8xjvu7nc1/System_Critique__Eraser.pdf?dl=0)
 
 ---
 #### Math

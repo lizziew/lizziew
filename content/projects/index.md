@@ -3,6 +3,22 @@ date = "2016-11-05T21:05:33+05:30"
 title = "Projects"
 +++
 ---
+#### GENIE: GENe IndExer
+##### Tools/Languages: C, C++, Python (scikit-learn)
+Built a tool to improve exact search for DNA sequencing analysis using learned indexes - specifically, RMIs (recursive model indexes). Worked with Tony Peng and Ashwath Thirumalai. Advised by Sanchit Misra and Professor Tim Kraska.
+
+- [Paper](https://www.dropbox.com/s/zm4179yp48fwnvu/GENIE_Paper.pdf?dl=0)
+- [Poster](https://www.dropbox.com/s/jgeefeofgylmpy1/830_poster.pdf?dl=0)
+- [Code](https://github.com/ashwatht/GENIE)
+
+---
+#### Analyzing Loss Functions for End-to-End Automatic Image Colorization
+##### Tools/Languages: Pytorch
+Investigated the effects of loss functions on automatic image colorization using CNNs. Worked with Wonjune Kang. Code not posted because this is a MIT class project (6.819: Computer Vision).
+
+- [Paper](https://www.dropbox.com/s/lfua1muhc4oqmes/6819_Final_Paper.pdf?dl=0)
+
+---
 #### Go Interpreter and Compiler
 ##### Tools/Languages: Go
 Simple interpreter and compiler written in Go for a toy language. Supports data structures like integers, booleans, strings, arrays, and hashmaps; prefix, infix operators; index operators; conditions; global and local bindings; first class functions; return statements; and closures. Code based on [this book](https://interpreterbook.com/).
