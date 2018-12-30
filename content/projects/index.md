@@ -3,6 +3,13 @@ date = "2016-11-05T21:05:33+05:30"
 title = "Projects"
 +++
 ---
+#### board2board
+##### Tools/Languages: React.js, Node.js, Express, Socket.IO, OpenCV.js
+Built a collaborative drawing web app that uses a computer's webcam for object detection. Worked with Andrew Wei.
+
+- [Blog post](https://datasieve.blogspot.com/2018/12/board2board.html)
+
+---
 #### GENIE: GENe IndExer
 ##### Tools/Languages: C, C++, Python (scikit-learn)
 Built a tool to improve exact search for DNA sequencing analysis using learned indexes - specifically, RMIs (recursive model indexes). Worked with Tony Peng and Ashwath Thirumalai. Advised by Sanchit Misra and Professor Tim Kraska.
