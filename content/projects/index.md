@@ -1,7 +1,20 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "Projects"
+title = "Projects and Papers"
 +++
+---
+#### Delta Binary Packed Decompression on GPUs
+##### Tools/Languages: CUDA, C, C++, Python
+Researched and implemented delta binary packing decompression on GPUs. Advised by Anil Shanbhag and Professor Sam Madden as part of the SuperUROP program and MIT Database Group. Funded by Lincoln Laboratory.
+
+- [Paper](https://www.dropbox.com/s/5fcprb4neskq2w9/ElizabethWeiFinalUAR.pdf?dl=0)
+
+---
+#### Approximately Counting Subgraphs in Sublinear Time
+Investigated recent research on sublinear algorithms for approximately counting subgraphs. Worked with Luis Xavier Ramos Tormo and Justin Restivo. Final class project for 6.856 (Randomized Algorithms).
+
+- [Paper](https://www.dropbox.com/s/87voif5ltkn9p0x/856_RamosRestivoWei.pdf?dl=0)
+
 ---
 #### board2board
 ##### Tools/Languages: React.js, Node.js, Express, Socket.IO, OpenCV.js
@@ -53,7 +66,7 @@ As part of the MIT CSAIL Database Group. Microbenchmarking newer generations of 
 (Work mostly in private repo.)
 
 ---
-#### Fault-tolerant k/v service
+#### Raft: Fault-tolerant k/v service
 ##### Language: Go
 A fault tolerant key/value storage system. Specifically, a key/value service on top of Raft, a replicated state machine protocol. Code not posted because this is a MIT class project (6.824: Distributed Systems Engineering.)
 
