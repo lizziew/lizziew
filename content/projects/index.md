@@ -7,13 +7,13 @@ title = "Projects and Papers"
 ##### Tools/Languages: CUDA, C, C++, Python
 Researched and implemented delta binary packing decompression on GPUs. Advised by Anil Shanbhag and Professor Sam Madden as part of the SuperUROP program and MIT Database Group. Funded by Lincoln Laboratory.
 
-- [Paper](https://www.dropbox.com/s/5fcprb4neskq2w9/ElizabethWeiFinalUAR.pdf?dl=0)
+- [Paper](https://www.dropbox.com/s/b57gf10w6ye1tpx/ElizabethWeiFinalUAR.pdf?dl=0)
 
 ---
 #### Approximately Counting Subgraphs in Sublinear Time
 Investigated recent research on sublinear algorithms for approximately counting subgraphs. Worked with Luis Xavier Ramos Tormo and Justin Restivo. Final class project for 6.856 (Randomized Algorithms).
 
-- [Paper](https://www.dropbox.com/s/87voif5ltkn9p0x/856_RamosRestivoWei.pdf?dl=0)
+- [Paper](https://www.dropbox.com/s/trurt4lcdahx7ta/856_RamosRestivoWei.pdf?dl=0)
 
 ---
 #### board2board
@@ -27,8 +27,8 @@ Built a collaborative drawing web app that uses a computer's webcam for object d
 ##### Tools/Languages: C, C++, Python (scikit-learn)
 Built a tool to improve exact search for DNA sequencing analysis using learned indexes - specifically, RMIs (recursive model indexes). Worked with Tony Peng and Ashwath Thirumalai. Advised by Sanchit Misra and Professor Tim Kraska.
 
-- [Paper](https://www.dropbox.com/s/zm4179yp48fwnvu/GENIE_Paper.pdf?dl=0)
-- [Poster](https://www.dropbox.com/s/jgeefeofgylmpy1/830_poster.pdf?dl=0)
+- [Paper](https://www.dropbox.com/s/tqqf03to3872c4n/GENIE_Paper.pdf?dl=0)
+- [Poster](https://www.dropbox.com/s/ctxe73yz1dva8ii/830_poster.pdf?dl=0)
 - [Code](https://github.com/ashwatht/GENIE)
 
 ---
@@ -36,7 +36,7 @@ Built a tool to improve exact search for DNA sequencing analysis using learned i
 ##### Tools/Languages: Pytorch
 Investigated the effects of loss functions on automatic image colorization using CNNs. Worked with Wonjune Kang. Code not posted because this is a MIT class project (6.819: Computer Vision).
 
-- [Paper](https://www.dropbox.com/s/lfua1muhc4oqmes/6819_Final_Paper.pdf?dl=0)
+- [Paper](https://www.dropbox.com/s/8g89tvb8ax8jnl2/6819_Final_Paper.pdf?dl=0)
 
 ---
 #### Go Interpreter and Compiler
@@ -66,11 +66,17 @@ As part of the MIT CSAIL Database Group. Microbenchmarking newer generations of 
 (Work mostly in private repo.)
 
 ---
-#### Raft: Fault-tolerant k/v service
+#### Raft
 ##### Language: Go
 A fault tolerant key/value storage system. Specifically, a key/value service on top of Raft, a replicated state machine protocol. Code not posted because this is a MIT class project (6.824: Distributed Systems Engineering.)
 
 - [Blog post](http://datasieve.blogspot.com/2018/02/tldr-raft.html)
+
+---
+#### Counting Up-Down Walks
+Investigated counting up-down walks on the 2-D coordinate plane as final project for 18.200: Principles of Discrete Applied Mathematics.
+
+- [Paper](https://www.dropbox.com/s/xtsm5vl9iyut2k9/18_200_Term_Draft.pdf?dl=0)
 
 ---
 #### tldr
@@ -79,30 +85,10 @@ I'm posting analyses of papers I'm currently reading. Inspired by [The Morning P
 - [Posts](http://datasieve.blogspot.com/search/label/tldr)
 
 ---
-####  Bit rotation
-##### Tools/Languages: C, Valgrind, Gprof
-Fast bitarray rotation using bit hacks. Worked with Justin Restivo. Code not posted because this is a MIT class project (6.172: performance engineering.)
+#### Investigating non-convex optimization algorithms for matrix completion
+A reading project surveying the paper Matrix Completion Has No Spurious Local Minimum by Ge, Lee, and Ma [2017]. Final project for 18.434: Seminar in Theoretical Computer Science.
 
-- [Project description](https://www.dropbox.com/s/d33dqoqhjvskoqf/project1.pdf?dl=0)
-- [Writeup](https://www.dropbox.com/s/jju53lzfyoujwhe/Project_1_Final_Write_up.pdf?dl=0)
-- [Blog post](http://datasieve.blogspot.com/2017/11/performance-engineering.html)
-
----
-#### Quadtree intersection detection
-##### Tools/Languages: C, Valgrind, Gprof
-Fast intersection detection of 2d moving vectors using quadtrees. Worked with Erick Friis. Code not posted because this is a MIT class project (6.172: performance engineering).
-
-- [Project description](https://www.dropbox.com/s/5ret4u3guxu6f8r/project2.pdf?dl=0)
-- [Blog post](http://datasieve.blogspot.com/2017/11/performance-engineering.html)
-
----
-#### Serial dynamic memory allocator
-##### Tools/Languages: C, Valgrind, Gprof
-Fast, space-efficient, general purpose, single-core memory allocator. Worked with Anthony Liu. Code not posted because this is a MIT class project (6.172: performance engineering).
-
-- [Project description](https://www.dropbox.com/s/b3rc8vt8ex84vvl/project3.pdf?dl=0)
-- [Writeup](https://www.dropbox.com/s/35lg9n5u48plb1o/Project_3_Final.pdf?dl=0)
-- [Blog post](http://datasieve.blogspot.com/2017/11/performance-engineering.html)
+- [Paper](https://www.dropbox.com/s/rkrt175zr6cwtbs/18_434_Final_Paper.pdf?dl=0)
 
 ---
 #### Firebase backend plugin for Mavo
@@ -173,7 +159,7 @@ MIT's future lost and found box. Semi-finalist in MIT’s annual Web Programming
 - [Code](https://github.com/lizziew/ihtfyp)
 
 ---
-#### Blizi
+#### Blizi (High school)
 ##### Tools/Languages: Python, SQL, AngularJS, jQuery, JavaScript, HTML
 As part of the UW Networks Lab. Built a social web app on top of freedom.js, a decentralized P2P web framework. Worked with Will Scott, Raymond Cheng, and Bonnie Pan, and advised by Professor Tom Anderson.
 
@@ -182,7 +168,7 @@ As part of the UW Networks Lab. Built a social web app on top of freedom.js, a d
 - [Blog post](http://datasieve.blogspot.com/2014/08/last-day-of-my-internship.html)
 
 ---
-#### D3.js interactive visualizations
+#### D3.js interactive visualizations (High school)
 ##### Tools/Languages: Javascript, HTML, D3.js
 
 Movie Sieve:
@@ -196,8 +182,8 @@ Celebrities' Influence:
 - [Blog post](http://datasieve.blogspot.com/2013/08/interactive-data-story-of-forbes-top.html)
 
 ---
-#### ALEx
+#### ALEx (High school)
 ##### Tools/Languages: Java
-In high school, I built a basic natural language parser with two friends. Our agent can understand and execute commands, remember past data while it responds to the current request, and ask clarifying questions.
+I built a basic natural language parser with two friends. Our agent can understand and execute commands, remember past data while it responds to the current request, and ask clarifying questions.
 
 [Code](https://github.com/lizziew/ALEx)
