@@ -3,8 +3,9 @@ date = "2016-11-05T21:05:33+05:30"
 title = "Blog posts"
 +++
 
-- [Blog](datasieve.blogspot.com)
-Recently blogged:
+Check out my blog at [Blog](datasieve.blogspot.com)
+
+Recent posts:
 
 ---
 #### Computer Science

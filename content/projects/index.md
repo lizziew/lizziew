@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "Projects and Papers"
+title = "Projects & papers"
 +++
 ---
 #### Delta Binary Packed Decompression on GPUs
@@ -57,7 +57,7 @@ A high performance, decentralized cryptocurrency exchange written in Go. Worked 
 - [Whitepaper](https://github.com/RSenApps/nchainz/blob/master/NChainzWhitepaper.pdf)
 
 ---
-#### Optimizing GPU-based database algorithms
+#### Optimizing GPU-based Database Algorithms
 ##### Tools/Languages: CUDA, C++
 As part of the MIT CSAIL Database Group. Microbenchmarking newer generations of NVIDIA GPUs, including GeForce GTX Titan X. Modeling page table structure and TLB misses. Developing and optimizing performance of GPU-based database algorithms. Worked with Anil Shanbhag and advised by Professor Sam Madden.
 
@@ -85,13 +85,13 @@ I'm posting analyses of papers I'm currently reading. Inspired by [The Morning P
 - [Posts](http://datasieve.blogspot.com/search/label/tldr)
 
 ---
-#### Investigating non-convex optimization algorithms for matrix completion
+#### Investigating Non-Convex Optimization Algorithms for Matrix Completion
 A reading project surveying the paper Matrix Completion Has No Spurious Local Minimum by Ge, Lee, and Ma [2017]. Final project for 18.434: Seminar in Theoretical Computer Science.
 
 - [Paper](https://www.dropbox.com/s/rkrt175zr6cwtbs/18_434_Final_Paper.pdf?dl=0)
 
 ---
-#### Firebase backend plugin for Mavo
+#### Firebase Backend Plugin for Mavo
 ##### Tools/Languages: JavaScript, HTML, Firebase
 As part of the MIT CSAIL Haystack Group. Implemented Firebase backend plugin for Mavo web framework. Mavo adds data editing and spreadsheet-style formulas that permit the construction of full-fledged applications in a single HTML document. Worked with Lea Verou and advised by Professor David Karger.
 
@@ -101,7 +101,7 @@ As part of the MIT CSAIL Haystack Group. Implemented Firebase backend plugin for
 - [Mavo](http://mavo.io/)
 
 ----
-#### PlanForMe
+#### PlanForMe iOS App
 ##### Tools/Languages: Swift, Xcode, Firebase, EventKit
 An automated assistant that optimizes and organizes your schedule for you. It makes planning your day quick and easy, whether you have a lot of overlapping events or just want to prioritize your meetings and activities. You can:
 
@@ -123,7 +123,7 @@ Just tap a button to add the plan to your calendar!
   - [Messages framework](http://datasieve.blogspot.com/2016/06/imessage-apps-more-in-depth-look.html)
 
 ---
-#### Miscolor
+#### Miscolor iOS App
 ##### Tools/Languages: Swift, Xcode
 Miscolor is easy to learn but hard to master. This is your chance to race against the clock, fight your instincts, improve your mental agility, and kill time!
 
@@ -168,7 +168,7 @@ As part of the UW Networks Lab. Built a social web app on top of freedom.js, a d
 - [Blog post](http://datasieve.blogspot.com/2014/08/last-day-of-my-internship.html)
 
 ---
-#### D3.js interactive visualizations (High school)
+#### D3.js Interactive Visualizations (High school)
 ##### Tools/Languages: Javascript, HTML, D3.js
 
 Movie Sieve:
